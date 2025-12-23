@@ -216,10 +216,7 @@ While the model improves decision-making, it cannot predict the unpredictable na
 
 
 ## What next?
-To transform this vision into a fully functional product, the next steps focus on implementation and automation:
 
-* **From Static to Real-Time:** The biggest leap involves moving from analyzing historical CSV files to building live data pipelines. This means automating the collection of complex variables (weather, real-time momentum, lineups) via APIs so the "Excitement Score" is generated instantly before kickoff.
-* **User Feedback Loop:** The project could grow by allowing users to vote on whether they enjoyed a recommended match. This data would feed back into the model to refine its accuracy.
 * **Personalization:** Allowing users to manually customize the algorithm by adjusting the weights of parameters (e.g., valuing "high scoring" more than "tactical intensity") and selecting favorite teams or players to boost their specific matches in the final ranking.
 * **Skills & Assistance Needed:** Domain expertise in football analytics is crucial to correctly perform feature selection and assign the right weight to the variables that truly matter. Additionally, implementing advanced Web Scraping and Cloud Deployment pipelines is essential.
 

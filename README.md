@@ -65,7 +65,7 @@ try:
     print(f"Data loaded successfully: {len(df)} matches found.")
 except FileNotFoundError:
     print(
-        f"Error: Could not find {DATA}. Please download it from https://www.football-data.co.uk/englandm.php"
+        f"Error: Could not find {DATA}. Please download it from https://www.football-data.co.uk/spainm"
     )
     exit()
 
